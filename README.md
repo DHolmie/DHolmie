@@ -1,7 +1,8 @@
 ### Hello there! 👋
 
-<p>My name is Derrick. I'm a Chef from Toronto with a passion for technologies & food.
-My Dad's claim to fame is donating his apple 2 to a local museum and getting his name on the plaque.
+<p>My name is Derrick. I'm a Chef from Toronto with a passion for technologies & food!<p>
+  
+<p>My Dad's claim to fame is donating his apple 2 to a local museum and getting his name on the plaque.
 From an early age I have been immeresed and intrigued by technologies;
 Starting in 2022 I decided to learn how to code and I hope to develop and hone my skills.<p>
 
