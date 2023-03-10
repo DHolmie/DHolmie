@@ -2,9 +2,11 @@
 
 <p>My name is Derrick. I'm a Chef from Toronto with a passion for technologies & food!<p>
   
-<p>My Dad's claim to fame is donating his apple 2 to a local museum and getting his name on the plaque.
-From an early age I have been immeresed and intrigued by technologies;
-Starting in 2022 I decided to learn how to code and I hope to develop and hone my skills.<p>
+<p>I remeber fondly my father's "claim to fame" was donating his Apple 2 to a local museum and getting his name on the plaque.
+From an early age I have been immeresed and intrigued by technologies, but pursued my passion for food in my early career.
+Starting in 2022 I decided to learn how to code and pursue a career in Programming and Computer Science.<p>
+  
+<p>I hope to develop and hone my skills, while building projects I can be proud to call my own.<p>
 
 - 🔭 I’m currently working on mastering: NeetCode 150 Algorithms 🧠 
 - 🌱 I’m currently learning: EVERYTHING 
