@@ -9,7 +9,7 @@
 <p>I hope to develop and hone my skills, while building projects I can be proud to call my own.<p>
 
 - 🔭 I’m currently working on mastering: NeetCode 150 Algorithms 🧠 
-- 🌱 I’m currently learning: EVERYTHING 
+- 🌱 I’m currently learning: Game Dev 
 - 👯 I’m looking to collaborate on: Small Game Dev projects
 - 🤔 I’m looking for help with: Finding colaborators and communities to join!!
 - 💬 Ask me about: Preparing Smoked Brisket!! 🍖 
